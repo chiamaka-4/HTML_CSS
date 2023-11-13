@@ -1,0 +1,49 @@
+
+.list-item1{
+    color:green;
+    font-size:20px;
+}
+.list-item2{
+    color:goldenrod;
+    font-size:20px;
+
+}
+.list-item3{
+    color:blue;
+    font-size:20px;
+}
+.text:focus{
+    border:1px dotted red;
+    outline:none;
+}
+    
+
+h1{
+
+    border-bottom:2px solid black;
+    
+}
+.p1{
+    color:orange;
+    
+}
+
+.p2{
+    color:brown;
+    margin:20px;
+}
+    
+
+div{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#topic{
+    color:goldenrod;
+}
+button:hover{
+color: blue;
+}
+   
+    
+   
+
