@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+    justify-content: space-around;
+    margin: 10px;
+    border: 1px solid black;
+    text-shadow: 1px 1px 1px orange;
+    background-color: aquamarine;
+
+
+}
+ul{
+    display: inline-flex;
+    list-style: none;
+    gap: 10px;
+    margin:30px
+     
+}
+div{
+    text-align: center;
+    gap: 0px;
+    margin:30px
+}
+button:hover{
+color: orangered;
+}
+    
+
