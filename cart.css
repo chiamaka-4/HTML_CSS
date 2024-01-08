@@ -1,0 +1,126 @@
+body {
+  max-width: 1300px;
+  z-index: -1;
+}
+.div_container {
+  display: flex;
+  justify-content: space-around;
+  width: fit-content;
+}
+.div_1 {
+  background-color: white;
+  justify-content: space-between;
+  margin: 20px;
+
+  width: 1000px;
+  height: 1200px;
+}
+.cart-items {
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  justify-content: space-around;
+  font-size: xx-large;
+}
+i {
+  font-size: xx-large;
+  margin: 20px;
+}
+
+.gele:hover {
+  background-color: green;
+  width: 70px;
+}
+.price {
+  margin: 80px;
+  font-size: xx-large;
+  color: brown;
+}
+.plus-sign {
+  margin: 35px;
+}
+.price_remove {
+  background-color: green;
+  height: 45px;
+  font-size: 20px;
+  margin: 55px;
+  padding: 10px;
+
+  color: yellowgreen;
+}
+.minus-sign {
+  margin: 35px;
+}
+.gele-like {
+  margin-left: 50px;
+  margin-bottom: 20px;
+  color: brown;
+}
+.num {
+  font-size: large;
+  color: wheat;
+}
+.subtotal-container {
+  display: flex;
+  gap: 100px;
+  padding: 0;
+  font-size: medium;
+  color: brown;
+  margin: auto;
+  justify-content: center;
+}
+#btn {
+  font-size: medium;
+  background-color: goldenrod;
+  padding: 5px;
+}
+.add-sub {
+  display: flex;
+  align-items: center;
+  margin: 70px;
+  justify-content: center;
+  background-color: olivedrab;
+  color: aliceblue;
+  height: 40px;
+}
+
+.div_2 {
+  background-color: green;
+  width: 1200px;
+  height: 1210px;
+}
+.div_2 img {
+  display: block;
+  width: 800px;
+  height: 1000px;
+  margin: 20px;
+  object-fit: contain;
+}
+.div_1 img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, 1);
+  transition: 1s;
+}
+
+.african {
+  margin-inline-start: 300px;
+  font-size: 2rem;
+  font-weight: 200;
+  font-style: italic;
+  color: green;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav_section {
+  display: flex;
+  justify-items: center;
+}
+.icon {
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  justify-items: flex-start;
+}
